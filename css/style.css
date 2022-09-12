@@ -1,0 +1,89 @@
+nav {
+  border-radius: 2%;
+  border: 1px outset;
+  margin: 3px;
+  width: 100%;
+}
+.bg-black {
+  background-color: black;
+}
+.ingresar {
+  border: none;
+  background-color: black;
+  color: white;
+  width: 100px;
+}
+.logoPrograma {
+  width:140px;
+  height:60px;
+}
+.bi.bi-twitter:hover {
+  background-color: blue;
+}
+.bi.bi-linkedin:hover {
+  background-color: blue;
+}
+.bi.bi-instagram:hover {
+  background-color: blue;
+}
+.banner {
+  border: 1px outset rgb(191, 220, 243);
+  border-radius: 2%;
+  margin: 3px;
+  width: 100%;
+  background-color: rgba(231, 236, 240, 52%);
+}
+.banner-img {
+  position: absolute;
+  border-radius: 2%;
+  width: 100%;
+  height: 400px;
+}
+.foto {
+  position: relative;
+  padding: 6px;
+  width: 180px;
+  height: 200px;
+  margin-top: 300px;
+  margin-left: 15px;
+  border-radius: 30%;
+}
+h1.nombrePerfil {
+  margin-left: 10px;
+}
+h3 {
+  font-size: large;
+}
+.titulo {
+  border: 1px outset rgb(191, 220, 243);
+  border-radius: 2%;
+  margin: 3px;
+  text-align: center;
+  background-color: rgb(185, 219, 247);
+  width: 100%;
+}
+.container-fluid.cajon {
+  border: 1px outset rgb(191, 220, 243);
+  border-radius: 2%;
+  margin: 3px;
+}
+.btn-link {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.abarca {
+  width: 100%;
+  border: none;
+}
+div.col {
+  display: inline-flex;
+  justify-content: right;
+}
+.progress {
+  margin-top: 6px;
+}
+h5 {
+  font-size: smaller;
+}
+
+
